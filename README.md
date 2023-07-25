@@ -61,7 +61,6 @@ npx tailwindcss -i ./src/style.css -o ./dist/output.css --watch
 │   ├── favicon-32x32.png
 │   └── image-qr-code.png
 ├── src
-│   ├── index.html
 |   ├── reset.css
 │   └── style.css
 ├── index.html
