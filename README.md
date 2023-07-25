@@ -1,5 +1,5 @@
 # FrontEnd Mentor | QR code Challenge
-![](./design/solution_preview.png)
+![](./design/solution_preview.jpeg)
 This is the solution to [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). A perfect first challenge if you're new to HTML and CSS.
 
 <h2 align="center">Links</h2>
