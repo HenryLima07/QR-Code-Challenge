@@ -4,8 +4,8 @@ This is the solution to [QR code component](https://www.frontendmentor.io/challe
 
 <h2 align="center">Links</h2>
 
-- Solution: [Frontend Mentor | QR Code Component (Tailwind)]()
-- Solution Site: [QR Code Component Site]()
+- Solution: [Frontend Mentor | QR Code Component (Tailwind)](https://www.frontendmentor.io/solutions/qr-code-component-challenge-r7nEwTt3kK)
+- Solution Site: [QR Code Component Site](https://qr-code-challenge-vfn6.vercel.app/)
 
   
 ## Process
